@@ -29,7 +29,15 @@ Due to the large size of data files, the data files (realizations and PCA basis)
 </p>
 
 ## Citation
-Please cite our paper if you find the codes useful
+@article{jiang2021inverting,
+  title={Inverting subsurface flow data for geologic scenarios selection with convolutional neural networks},
+  author={Jiang, Anyue and Jafarpour, Behnam},
+  journal={Advances in Water Resources},
+  volume={149},
+  pages={103840},
+  year={2021},
+  publisher={Elsevier}
+}
 
 ## Acknowledgments
 The authors acknowledge partial funding of this project by Energi Simulation Chair Program. The authors also thank Syamil Mohd Razak for helping build the three-dimensional case study for this work.
